@@ -1,0 +1,21 @@
+#detail{
+    padding: 20px 0;
+        .detail-data{
+            width: 700px ;
+            margin: 200px auto;
+            display: flex;
+            column-gap: 30px;
+            .icon{
+                font-size: 200px;
+                color: #007BFF;
+            }
+            .text-data{
+                p{
+                    margin: 20px 0;
+                    font-size: 20px;
+                    color:  rgb(128, 128, 128);
+                    line-height: 30px;
+                }
+            }
+        }
+}

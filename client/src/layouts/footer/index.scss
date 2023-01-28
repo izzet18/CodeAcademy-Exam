@@ -1,0 +1,21 @@
+#footer{
+    background-color: #333333;
+    padding: 20px;
+    width: 1920px;
+    margin: 0 auto;
+    .foot{
+        width: 700px;
+        margin: 100px auto;
+        border-top: 1px solid rgb(115, 115, 115);
+        text-align: center;
+        p{
+            color: rgb(115, 115, 115);
+            margin-top: 25px;
+            font-size: 18px;
+            i{
+                color: #DC3545;
+                font-size: 18px;
+            }
+        }
+    }
+}
